@@ -27,3 +27,4 @@ best, others = big_o(
 )
 print(best)
 
+t1 = Timer("list_insert(lst)", "from __main__ import list_insert, lst")
